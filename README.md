@@ -17,13 +17,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jeya29052005wick.Jeya29052005wick&left_color=mediumseagreen&right_color=darkgray"  />
-</div>
-
-###
-
-<h4 align="left">👩‍💻  About Me</h4>
+<h4 align="center">👩‍💻  About Me</h4>
 
 ###
 
@@ -87,12 +81,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Jeya29052005wick&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jeya29052005wick.Jeya29052005wick&"  />
 </div>
 
 ###
