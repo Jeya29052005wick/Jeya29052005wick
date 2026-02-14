@@ -2,7 +2,17 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+</div>
+
+###
+
+<h4 align="center">👩‍💻  About Me</h4>
+
+###
+
+<p align="left">I'm a 3rd year B.Tech Information Technology student at PSNA College of Engineering and Technology.  <br>I enjoy app development and have a strong interest in Artificial Intelligence.</p>
 
 ###
 
@@ -17,15 +27,13 @@
 
 ###
 
-<h4 align="center">👩‍💻  About Me</h4>
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
-<p align="left">I'm a 3rd year B.Tech Information Technology student at PSNA College of Engineering and Technology.  <br>I enjoy app development and have a strong interest in Artificial Intelligence.</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/Jeya29052005wick/Jeya29052005wick/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Jeya29052005wick&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
 
@@ -71,16 +79,6 @@
   <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="35" alt="androidstudio logo"  />
   <img width="13" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="35" alt="postman logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Jeya29052005wick&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
