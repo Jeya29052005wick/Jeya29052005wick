@@ -8,14 +8,6 @@
 
 ###
 
-<h4 align="center">👩‍💻  About Me</h4>
-
-###
-
-<p align="left">I'm a 3rd year B.Tech Information Technology student at PSNA College of Engineering and Technology.  <br>I enjoy app development and have a strong interest in Artificial Intelligence.</p>
-
-###
-
 <div align="center">
   <a href="www.linkedin.com/in/jeyachandran-s-9a7159296" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
